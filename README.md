@@ -1,1 +1,2 @@
 # MyTestRepo
+- Přídání zkušebního textu
